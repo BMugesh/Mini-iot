@@ -1,0 +1,6 @@
+temperature,humidity,gas_level,color_index,ripening_type
+28.4,88,15,0.76,natural
+34.0,58,72,0.55,artificial
+29.5,82,18,0.71,natural
+...
+...

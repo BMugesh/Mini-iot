@@ -1,9 +1,4 @@
-
----
-
-## 🧪 `requirements.txt`
-
-```txt
+**🧪requirements**
 flask
 pandas
 scikit-learn

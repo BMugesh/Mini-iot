@@ -1,0 +1,12 @@
+
+---
+
+## 🧪 `requirements.txt`
+
+```txt
+flask
+pandas
+scikit-learn
+numpy
+matplotlib
+plotly
